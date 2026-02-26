@@ -1,0 +1,5 @@
+{
+  "name": "HealthPlus",
+  "description": "A comprehensive healthcare management system featuring role-based access for doctors and patients with integrated medical data views.",
+  "requestFramePermissions": []
+}
